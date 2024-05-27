@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently a 3rd year student of **Warsaw University of Technology.**
 
-- 🌱 I’m learning Statistics, Machine Learning, Exploratory Data Analysis and more.
+- 🌱 I’m learning Statistics, Probability, Machine Learning, Exploratory Data Analysis and more.
 
 - 👨‍💻  I am passionate about working with data and it is what I would like to associate my professional career with.
 
