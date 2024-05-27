@@ -3,6 +3,10 @@
 
 - 🔭 I’m currently a 3rd year student of **Warsaw University of Technology.**
 
+- 🌱 I’m learning Statistics, Machine Learning, Exploratory Data Analysis and more.
+
+- 👨‍💻  I am passionate about working with data and it is what I would like to associate my professional career with.
+
 - 📫 You can reach me via email: **trzcinska.oliwia@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
