@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Oliwia</h1>
 <h3 align="center">A passionate Mathematics and Data Analysis student</h3>
 
-- 🔭 I’m currently a 3rd year student of **Warsaw University of Technology.**
+- 🔭 I’m currently a 4th year student of **Warsaw University of Technology.**
 
 - 🌱 I’m learning Statistics, Probability, Machine Learning, Exploratory Data Analysis and more.
 
